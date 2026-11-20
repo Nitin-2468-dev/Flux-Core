@@ -6,7 +6,7 @@ project:
   description: "A 2x2 coarse-grained reconfigurable array with configurable 32-bit processing elements."
   language: "Amaranth"
   clock_hz: 0
-  tiles: "3x2"
+  tiles: "4x2"
   top_module: "tt_um_fluxcore"
   source_files:
     - "tt_um_fluxcore.v"
